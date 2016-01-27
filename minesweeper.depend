@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1452778777 source:d:\programs\minesweeper\main.cpp
+	<algorithm>
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<vector>
+	<ctime>
+	<queue>
+
